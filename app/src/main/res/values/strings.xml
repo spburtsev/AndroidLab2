@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLab2</string>
+    <string name="red_title">red</string>
+    <string name="green_title">green</string>
+    <string name="blue_title">blue</string>
+    <string name="picked_color_description">Picked color</string>
+</resources>
